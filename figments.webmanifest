@@ -1,0 +1,21 @@
+{
+    "name": "figments",
+    "short_name": "figments",
+    "description": "A text-based immersive simulated environment",
+    "icons": [
+        {
+            "src": "icon32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "icon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#004790",
+    "background_color": "#000"
+}
