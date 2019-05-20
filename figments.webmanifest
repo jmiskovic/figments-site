@@ -14,7 +14,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "index.html",
+    "start_url": "/figments-site/",
     "display": "standalone",
     "theme_color": "#004790",
     "background_color": "#000"
